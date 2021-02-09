@@ -1,4 +1,5 @@
 # JavaNotes
+*Introduction to Java*
 Java is a high-level, compiled, strongly typed object-oriented programming (OOP) language.
 
 High-level: Code that is easily human-readable, binary (010110001s), assembly
